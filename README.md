@@ -12,9 +12,9 @@ Estimate of time needed to complete: **1 hour**
 
 Start time: **1800**
 
-Finish time: **1920**
+Finish time: **2200**
 
-Actual time needed to complete: **1 hour 20 minutes**
+Actual time needed to complete: **4 hours**
 
 ## Lighthouse
 
